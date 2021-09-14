@@ -1,0 +1,30 @@
+body{
+        background-color: grey;
+    }
+
+h1{
+        color: white;
+    }
+
+p{
+        color:rgb(5, 0, 3);
+    }
+
+#paragraph2{
+        color:rgb(23, 20, 220);
+}    
+
+#paragraph3{
+    color:rgb(200, 220, 20);
+} 
+
+/*
+#paragraph5,
+#paragraph6
+    {
+    color:goldenrod;
+} */
+
+.amarillo{
+    color: greenyellow;
+}
