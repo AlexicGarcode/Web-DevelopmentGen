@@ -1,0 +1,30 @@
+
+h1{
+    text-align: center;
+}
+
+td{
+    border: 2px solid darkred;
+    width: 100%;
+            
+    }
+
+#leftside     {
+    width: 20%;
+    
+    }
+
+#rightside{
+    width: 20%;
+}
+
+#center{
+    
+    width: 60%;
+    
+}
+
+#backtotop
+{
+    align-content: center;
+}

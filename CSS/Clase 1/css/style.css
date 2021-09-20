@@ -1,20 +1,20 @@
-body{
+body{ /* elementos principales */
         background-color: grey;
     }
 
-h1{
+h1{ /* elementos principales */
         color: white;
     }
 
-p{
+p{ /* elementos principales */
         color:rgb(5, 0, 3);
     }
 
-#paragraph2{
+#paragraph2{ /* id */
         color:rgb(23, 20, 220);
 }    
 
-#paragraph3{
+#paragraph3{   /* id */
     color:rgb(200, 220, 20);
 } 
 
@@ -25,6 +25,7 @@ p{
     color:goldenrod;
 } */
 
-.amarillo{
+.amarillo{ /* clase */
     color: greenyellow;
 }
+
