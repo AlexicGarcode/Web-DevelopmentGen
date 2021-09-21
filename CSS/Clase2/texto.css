@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body{
+    background-color: black;
+    font-size: 5px;
+}
+
+h1{
+    color: #fff;
+    font-size: 10em;
+    text-align: center;
+    font-family: Patrick Hand;
+}
+
+h2{
+    color: cyan;
+    font-size: 5rem;
+    font-family: Patrick Hand;
+}
+
+div{
+    background-color: chartreuse;
+}
+
+#u1{
+    height: 50px;
+}
+
+#u2{
+    width: 50%;
+    height: 50px;
+}
+
+#u3{
+    width: 50vw;
+    height: 50px;
+}
+
+p{
+    font-size: 20px;
+    color: darkgoldenrod;
+    font-family: Patrick Hand;
+    font-weight: bold;
+    font-style: italic;
+
+    text-align: left;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-indent: 50px;
+    text-shadow: 15px 20px 16px #028dfb;
+}    
