@@ -1,0 +1,27 @@
+
+body{   
+    background: cornflowerblue;
+}
+
+p{
+    font-family: helvetica;
+    font-size: 30;
+    color: beige;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+}
+
+ul{
+    list-style-type: lower-greek;
+    list-style-position: initial;
+}
+
+ul li{
+    font-size: 30px;
+    color: rgb(24, 14, 1);
+}
+
+#list2{
+    list-style-image: url(https://www.google.com/logos/doodles/2021/autumn-2021-northern-hemisphere-6753651837109082.2-s.png);
+}
