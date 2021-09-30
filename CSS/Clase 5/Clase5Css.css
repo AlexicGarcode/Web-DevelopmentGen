@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat;
+
+}
+
+#btn{
+    height: 100px;
+    background-color: cadetblue;
+}
+
+#btn:hover{
+    background-color: rgb(232, 255, 196);
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+}
