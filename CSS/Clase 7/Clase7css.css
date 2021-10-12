@@ -90,6 +90,7 @@ text-align: justify;
         background-color: cyan;
         display: block;
     } */
+}
 
     section > div{
     float: left;
@@ -101,6 +102,4 @@ text-align: justify;
     nav ul li{
         display: block;
     }
-}
-
-
+}  
