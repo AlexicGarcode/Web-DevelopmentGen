@@ -9,6 +9,7 @@
     grid-template-columns: 100px auto;
     grid-template-rows: 50px 50px 50px;
     grid-gap: 3px;
+    
 }
 
 
@@ -41,8 +42,3 @@ html, body{
     background-color: #ffcc5c;
 }
 
-@media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    [class*="col-"] {
-      width: 100%;
-    }
