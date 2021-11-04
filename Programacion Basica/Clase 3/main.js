@@ -99,16 +99,13 @@ var tabla = 1;
 
 var data = prompt('dame un numero')
 var happy = '$';
+var money = happy + '<br>';  
 
+for (let i = 0; i < data ; i++) {
+    document.write(happy + '<br>');
 
-for (let index1 = 0; index1 < data ; index1++) {
-    document.write('<h2>' + happy + '</h2>');
-
-
-
-    for (let index1 = 0; index1 < data ; index1++) {
-        document.write('<h2>' + happy  + happy + '</h2>');
-    }
-   
-
+    for (let j = 1; j < data; j++) {
+        
+        }
+    
 }
