@@ -40,10 +40,6 @@ var imgs = [
 var names = ['Burgan', 'Skull', 'Penguin', 'Guitar'];
 
 
-
-
-
-
 for (let index = 0; index < imgs.length; index++) {
     document.write('<img src="img/' + imgs[index] + '.png" alt="">');
     
