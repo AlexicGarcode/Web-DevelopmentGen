@@ -44,6 +44,7 @@ function togglePopup(){
 
 
 var button = '<button onclick="togglePopup()">Show Popup</button>';
+var element6 = '<div class="close-bt😂 onclick="togglePopup()">&times;</div>';
 
 document.getElementsByTagName('main')[0].innerHTML = button;
 
