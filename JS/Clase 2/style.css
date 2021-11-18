@@ -70,7 +70,7 @@ main {
     font-size: 11px;
 }
 
-.card .yellow .info .desc{
+.card .yellow .info .descp{
     font-size: 12px;
     font-style: italic;
 }
@@ -83,7 +83,4 @@ main {
     text-align: right;
 }
 
-img{
-    width: 300px;
-}
 
