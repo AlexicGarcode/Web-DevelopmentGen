@@ -20,6 +20,7 @@ main #screen{
     font-size: 40px;
     text-align-last: right;
     padding: 10px;
+    height: 20px;
 }
 
 main #btns{

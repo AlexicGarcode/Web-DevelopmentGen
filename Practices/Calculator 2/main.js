@@ -7,8 +7,7 @@ let calculate=(number)=>{
 let Result =()=>{
 
     try{
-        
-
+   
         result.value=eval(result.value)
     }
     catch(err){
