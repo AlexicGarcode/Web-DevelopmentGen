@@ -1,0 +1,31 @@
+div#container{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+}
+
+div#container2{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+div#container3{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+#nogara{
+
+    height: 200px;
+    width: 200px;
+    background-image: url(img/Accord.png);
+}
+
+#nogara2{
+
+    height: 200px;
+    width: 200px;
+    background-image: url(img/money.png);
+}
